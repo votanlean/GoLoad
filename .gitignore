@@ -1,0 +1,3 @@
+/vendor
+/internal/generated
+/internal/wiring/wire_gen.go
